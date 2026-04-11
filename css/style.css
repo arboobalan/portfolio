@@ -1,0 +1,47 @@
+body {
+    background: #eef2ff;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-nav {
+    background: linear-gradient(to right, #667eea, #a78bfa);
+}
+
+.hero {
+    padding: 100px 0;
+    background: linear-gradient(to right, #667eea, #a78bfa);
+    color: white;
+}
+
+.hero span {
+    color: #ffe066;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.hidden-section {
+    display: none;
+}
+
+#scrollTopBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+}
+
+footer {
+    background: #667eea;
+    color: white;
+    margin-top: auto;
+}
+
+html,
+body {
+    height: 100%;
+}
