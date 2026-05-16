@@ -312,7 +312,7 @@
     }
     .about-photo-wrap img {
       width: 100%; max-width: 260px;
-      border-radius: 20px;
+      /* border-radius: 20px; */
       box-shadow: 0 8px 40px rgba(74,144,217,0.18);
       display:block;
     }
